@@ -22,6 +22,9 @@ Research interests include elements of causal inference, statistical machine
 learning, targeted minimum loss-based estimation (TMLE), data-adaptive
 estimation for inference under model misspecification, nonparametrics.
 
+__For details about ongoing projects, my students, and our software, consult my
+[lab website](https://hubbardgroup.github.io).__
+
 ---
 <div class="container">
 <h4><a name="contact"></a>Contact</h4>
