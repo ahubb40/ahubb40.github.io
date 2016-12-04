@@ -18,11 +18,11 @@ description: Alan Hubbard's teaching materials
 
 ### <a name="current"></a>current courses
 
-#### [Public Health 142: Introduction to Probability and Statistics (Fall 2016)]({{BASE_PATH}})
+I am not teaching in the Spring 2017 semester.
 
-Descriptive statistics, probability, probability distributions, point and
-interval estimation, hypothesis testing, chi-square, correlation and regression
-with biomedical applications.
+---
+
+### <a name="past"></a>past courses
 
 #### [Public Health 242C: Longitudinal Data Analysis (Fall 2016)]({{BASE_PATH}}/)
 
@@ -33,9 +33,11 @@ data/linear models and longitudinal extensions to nonlinear models (_e.g._,
 logistic and Poisson). The primary focus is from the analysis side, but
 mathematical intuition behind the procedures will also be discussed.
 
----
+#### [Public Health 142: Introduction to Probability and Statistics (Fall 2016)]({{BASE_PATH}})
 
-### <a name="past"></a>past courses
+Descriptive statistics, probability, probability distributions, point and
+interval estimation, hypothesis testing, chi-square, correlation and regression
+with biomedical applications. _Co-taught with Dr. Maureen Lahiff_.
 
 #### [Public Health 252D: Introduction to Causal Inference (Spring 2016)]({{BASE_PATH}})
 
@@ -46,8 +48,8 @@ probability of treatment weighting, G-computation, and targeted maximum
 likelihood are introduced. In two-part presentations, students will define and
 implement research questions.
 
----
+<!--
 
 ### <a name="short"></a>short courses
 
-
+-->

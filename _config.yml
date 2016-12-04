@@ -2,8 +2,7 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md",
-          "License.md"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: rouge
 
 # Themes are encouraged to use these universal variables
@@ -11,7 +10,7 @@ highlighter: rouge
 #
 title : Alan Hubbard
 author :
-  name : Alan Hubbard
+  name : Alan E. Hubbard
   email : hubbard@stat.berkeley.edu
 
 production_url : https://ahubb40.github.io
