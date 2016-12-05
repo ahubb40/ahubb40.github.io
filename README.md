@@ -1,6 +1,4 @@
-# Alan Hubbard's academic website
-
----
+# Alan Hubbard's personal academic homepage
 
 ## License
 
